@@ -1,2 +1,5 @@
- my name is Yafiet Dessie I am health informatics fourth year student
- and I would like to do project
+# My First Project
+
+Hello! My name is Yafiet Dessie.
+I am a fourth-year Health Informatics student.
+I would like to build a project in health informatics.
